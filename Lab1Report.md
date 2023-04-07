@@ -22,4 +22,6 @@
 **Step 4**
 * Try running some commands on the terminal like `cd ~`,`cd`,`ls -lat`,`ls -a`
 * Terminal will produce something like this:
-* 
+![Image](VS3.png)
+
+> You are done! Congratulations broski!
