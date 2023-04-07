@@ -7,4 +7,14 @@
 **Step 2**
 * Go to [this](https://code.visualstudio.com/) link to download VS.
 * Then you will be greeted with a window like this.
-![Image](VS.jpg)
+![Image](VS.png)
+
+**Step 3**
+* Open up the terminal by from the new terminal menu option.
+* Type in this line of code to use ssh.
+* `$ ssh cs15lsp23zz@ieng6.ucsd.edu`
+* Above code's `zz` is to be replaced by your CSE15L account's username from step 1.
+* And type in yes
+* Then enter your password
+* Then if you are successful, you should see a terminal like this.
+* 
