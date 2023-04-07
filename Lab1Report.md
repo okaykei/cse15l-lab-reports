@@ -7,3 +7,4 @@
 **Step 2**
 * Go to [this](https://code.visualstudio.com/) link to download VS.
 * Then you will be greeted with a window like this.
+![Image](VS.jpg)
