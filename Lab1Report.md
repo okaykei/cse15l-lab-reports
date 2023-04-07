@@ -17,4 +17,9 @@
 * And type in yes
 * Then enter your password
 * Then if you are successful, you should see a terminal like this.
+![Image](VS2.png)
+
+**Step 4**
+* Try running some commands on the terminal like `cd ~`,`cd`,`ls -lat`,`ls -a`
+* Terminal will produce something like this:
 * 
